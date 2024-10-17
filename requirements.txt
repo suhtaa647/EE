@@ -1,0 +1,15 @@
+dnspython
+#pykerberos
+pywinrm
+awxkit==21.6.0
+urllib3
+autopep8
+ansible-core
+ansible-builder
+ansible-lint
+ansible-navigator
+flake8
+yamllint
+pytest
+pytest-xdist
+
